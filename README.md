@@ -1,9 +1,9 @@
 ## Rony Wijaya SMKN 2 KOTA BEKASI
 
-<p><img src="https://github.com/SclayGT/LiteRoom/blob/main/Gambar/Gambars1.png?raw=true"/></p>
-<p><img src="https://github.com/SclayGT/LiteRoom/blob/main/Gambar/Gambars2.png?raw=true"/></p>
-<p><img src="https://github.com/SclayGT/LiteRoom/blob/main/Gambar/Gambars3.png?raw=true"/></p>
-<p><img src="https://github.com/SclayGT/LiteRoom/blob/main/Gambar/Gambars4.png?raw=true"/></p>
+<p><img src="https://github.com/SclayGT/LiteRoom/blob/main/Images/Gambar1.png"/></p>
+<p><img src="https://github.com/SclayGT/LiteRoom/blob/main/Images/Gambar2.png"/></p>
+<p><img src="https://github.com/SclayGT/LiteRoom/blob/main/Images/Gambar3.png"/></p>
+<p><img src="https://github.com/SclayGT/LiteRoom/blob/main/Images/Gambar4.png"/></p>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
